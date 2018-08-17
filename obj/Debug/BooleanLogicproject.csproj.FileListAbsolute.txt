@@ -1,0 +1,7 @@
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\bin\Debug\BooleanLogicproject.exe.config
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\bin\Debug\BooleanLogicproject.exe
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\bin\Debug\BooleanLogicproject.pdb
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\obj\Debug\BooleanLogicproject.csprojAssemblyReference.cache
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\obj\Debug\BooleanLogicproject.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\obj\Debug\BooleanLogicproject.exe
+c:\users\student\source\repos\BooleanLogicproject\BooleanLogicproject\obj\Debug\BooleanLogicproject.pdb
